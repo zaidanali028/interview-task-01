@@ -24,5 +24,5 @@ All the api's unit-tests can be found in **tests/Unit** in the root of this proj
 - *[Service2Test] : Handles  the test for  `[Service 02]` defined in  `(App\Services\Service2.php)`*
 - *[Service3Test] : Handles  the test for  `[Service 03]` defined in  `(App\Services\Service3.php)`*
 - *[ApiControllerTest] : Handles  the test for  `ApiController` defined in  `(App\Http\Controllers\ApiController.php)`*
-- `run php artisan test` to test all the services and controllers at a goal
+- run `php artisan test` to test all the services and controllers at a goal
 
